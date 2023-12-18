@@ -6,3 +6,11 @@
 body{
     background-color: #3ee749;
 }
+h1{
+    text-align: center;
+}
+button{
+   margin-inline-start: 10rem;
+   inline-size: 40px;
+   block-size: 40px;
+}
