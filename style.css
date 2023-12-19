@@ -1,14 +1,12 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body{
     background-color: #3ee749;
-}
-h1{
     text-align: center;
 }
+h1{
+    font-family: serif;
+    color: #fff;
+}
+
 button{
    margin-inline-start: 10rem;
    inline-size: 40px;
